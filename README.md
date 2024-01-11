@@ -1,4 +1,4 @@
-### Lovely day, isn't it 🌙
+### Lovely day, isn't it 🌙 Cheers to us -- great pretenders 🍷
 
 <!--
 **paula4230/paula4230** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
