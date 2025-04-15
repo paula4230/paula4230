@@ -1,7 +1,14 @@
 ### Lovely day, isn't it 🌙🦉💻 
 
 [![Key Stacks](https://skillicons.dev/icons?i=ruby,rails,crystal,linux,postgres,redis&perline=10)](https://skillicons.dev)]
-[![Other Stacks](https://skillicons.dev/icons?i=js,py,docker,css,vue,flutter&perline=10)](https://skillicons.dev)]
+[![Other Stacks](https://skillicons.dev/icons?i=js,py,docker,css,tailwind&perline=10)](https://skillicons.dev)]
+
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ruby,rails,crystal,linux,postgres,redis" />
+  </a>
+</p>
 
 KEY builds and integrations:
 1. Crystal wrapper for Thunderstore downloader
