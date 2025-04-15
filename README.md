@@ -1,7 +1,5 @@
 ### Lovely day, isn't it 🌙🦉💻 
 
-![image](https://github.com/user-attachments/assets/31efe15d-4044-4985-8f89-99f9f05a7136) ![image](https://github.com/user-attachments/assets/8a000850-b401-4645-bae0-b31d2833724e)
-
 KEY builds and integrations:
 1. Crystal wrapper for Thunderstore downloader
 2. Crystal wrapper to download, unzip, and "walk" within nested folders
