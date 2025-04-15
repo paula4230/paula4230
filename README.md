@@ -22,4 +22,4 @@ Other key contributions:
 Unmerged projects:
 1. Xero integration on ERPNext
 
-Would be glad to discuss
+Would be glad to discuss other projects and workflows or share my CV outside Github :rocket:
