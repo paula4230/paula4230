@@ -1,6 +1,6 @@
 ### Lovely day, isn't it 🌙🦉💻 
 
-Hi! It's nice to see you here. A bit of a background about myself -- I used to work with Excel sheets and built some algorithms to process data, but I figured that I wanted to deploy and build applications so I learned how to code. I realized that the best way to grow in Software Engineering is to "let yourself be thrown into the fire" by building for real-world projects.
+Hi! It's nice to see you here. A bit of a background about myself -- I used to work with Excel sheets and built some algorithms to process data, but I figured that I wanted to deploy and build applications so I learned how to code. I realized that the best way to grow in Software Engineering is to "let yourself be thrown into the fire" by building real-world projects.
 
 These are the tech stacks I have accumulated and used over the years, mostly based on the requirements for each project I handled.
 
