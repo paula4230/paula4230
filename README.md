@@ -7,14 +7,14 @@ These are the tech stacks I have accumulated and used over the years, mostly bas
 Key Technologies:
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ruby,rails,crystal,linux,postgres,redis" />
+    <img src="https://skillicons.dev/icons?i=ruby,rails,crystal,postgres,redis" />
   </a>
 </p>
 
 Other Tech Stacks:
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,py,docker,css,tailwind" />
+    <img src="https://skillicons.dev/icons?i=js,py,docker,css,tailwind,linux" />
   </a>
 </p>
 
