@@ -1,10 +1,10 @@
 ### Lovely day, isn't it 🌙🦉💻 
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ruby,rails,crystal,linux,postgres,redis" />
   </a>
 </p>
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,py,docker,css,tailwind" />
   </a>
