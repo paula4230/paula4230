@@ -18,7 +18,7 @@ Other Tech Stacks:
   </a>
 </p>
 
-Learning in Progress:
+[Side Quests] Learning in Progress:
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=go" />
