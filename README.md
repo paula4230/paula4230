@@ -18,6 +18,13 @@ Other Tech Stacks:
   </a>
 </p>
 
+Learning in Progress:
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=go" />
+  </a>
+</p>
+
 So far, these are my most remarkable projects (I also have other needle-moving projects though):
 
 Key builds and integrations:
