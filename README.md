@@ -34,9 +34,9 @@ Key builds and integrations:
 4. Ruby wrapper for Valhalla API
 
 Other key contributions:
-1. Mini bug fix for Stripe crystal wrapper
+1. Mini bug fix for Stripe crystal wrapper (Open-source)
 
 Unmerged projects:
-1. Xero integration on ERPNext
+1. Xero integration on ERPNext (Open-source)
 
 Would be glad to discuss other projects and workflows or share my CV outside Github :rocket:
