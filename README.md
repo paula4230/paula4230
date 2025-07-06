@@ -31,7 +31,7 @@ Key builds and integrations:
 1. Crystal wrapper for Thunderstore downloader (to install mods on Valheim servers with just one click)
 2. Crystal wrapper to download, unzip, and "walk" within nested folders
 3. Meilisearch Crystal SDK
-4. Ruby wrapper for Valhalla API
+4. Ruby wrapper for Valhalla API (routing)
 
 Projects:
 1. Game Server Hosting (Crystal on Lucky, Linux)
