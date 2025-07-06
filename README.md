@@ -42,7 +42,7 @@ Projects:
 Other key contributions:
 1. Mini bug fix for Stripe Crystal wrapper (Open-source)
 
-Unmerged projects:
+Unmerged projects (Did it for the plot):
 1. Xero integration on ERPNext (Python on Frappe framework, Open-source bookkeeping and accounting platform)
 
 Would be glad to discuss other projects and workflows or share my CV outside Github :rocket:
