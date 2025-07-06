@@ -28,7 +28,7 @@ Other Tech Stacks:
 So far, these are my most remarkable projects (I also have other needle-moving projects though):
 
 Key builds and integrations:
-1. Crystal wrapper for Thunderstore downloader
+1. Crystal wrapper for Thunderstore downloader (to install mods on Valheim servers with just one click)
 2. Crystal wrapper to download, unzip, and "walk" within nested folders
 3. Meilisearch Crystal SDK
 4. Ruby wrapper for Valhalla API
