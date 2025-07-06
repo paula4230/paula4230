@@ -1,6 +1,7 @@
 ### Lovely day, isn't it 🌙🦉💻 
 
-Hi! It's nice to see you here. A bit of a background about myself -- I used to work with Excel sheets and built some algorithms to process data, but I figured that I wanted to deploy and build applications so I learned how to code. I grew a lot in my journey by building real-world projects, whether they may be personal or for work.
+Hi! It's nice to see you here.
+Allow me to introduce myself: I'm a full-time techie with a Life Sciences streak, creative-wannabe, self-defense enthusiast, musicophile, and a bookworm.
 
 These are the tech stacks I have accumulated and used over the years, mostly based on the requirements for each project I handled.
 
