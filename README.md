@@ -35,14 +35,14 @@ Key builds and integrations:
 
 Projects:
 1. Game Server Hosting (Crystal on Lucky)
-2. Product Management work for a full Accounting Platform
+2. Product Management work for a full Accounting Platform 
 3. Shipping Aggregator platform (Ruby on Rails)
 4. Delivery services platform (Ruby on Rails)
 
 Other key contributions:
-1. Mini bug fix for Stripe crystal wrapper (Open-source)
+1. Mini bug fix for Stripe Crystal wrapper (Open-source)
 
 Unmerged projects:
-1. Xero integration on ERPNext (Open-source bookkeeping and accounting platform)
+1. Xero integration on ERPNext (Python on Frappe framework, Open-source bookkeeping and accounting platform)
 
 Would be glad to discuss other projects and workflows or share my CV outside Github :rocket:
