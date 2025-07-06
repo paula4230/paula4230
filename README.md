@@ -34,7 +34,7 @@ Key builds and integrations:
 4. Ruby wrapper for Valhalla API
 
 Projects:
-1. Game Server Hosting (Crystal on Lucky)
+1. Game Server Hosting (Crystal on Lucky, Linux)
 2. Product Management work for a full Accounting Platform 
 3. Shipping Aggregator platform (Ruby on Rails)
 4. Delivery services platform (Ruby on Rails)
