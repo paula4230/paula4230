@@ -25,7 +25,7 @@ Other Tech Stacks:
   </a>
 </p>
 
-So far, these are my most remarkable projects (I also have other needle-moving projects though):
+So far, these are my most remarkable projects (I also have other needle-moving projects but these ones are my favorite):
 
 Key builds and integrations:
 1. Crystal wrapper for Thunderstore downloader (to install mods on Valheim servers with just one click)
