@@ -19,7 +19,7 @@ Other Tech Stacks:
   </a>
 </p>
 
-[Side Quests] Learning in Progress:
+Side Quests [For the Plot]
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=go,cpp" />
