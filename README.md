@@ -19,13 +19,6 @@ Other Tech Stacks:
   </a>
 </p>
 
-Side Quests [For the Plot]
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,cpp" />
-  </a>
-</p>
-
 So far, these are my most remarkable projects (I also have other needle-moving projects but these ones are my favorite):
 
 Key builds and integrations:
