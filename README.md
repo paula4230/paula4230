@@ -1,7 +1,7 @@
 ### Lovely day, isn't it 🌙🦉💻 
 
 Hi! It's nice to see you here.
-Allow me to introduce myself: I'm a full-time techie with a Life Sciences streak, creative-wannabe, self-defense enthusiast, musicophile, and a bookworm.
+Allow me to introduce myself: I'm a full-time techie with a Life Sciences streak, creative-wannabe, sports enthusiast, musicophile, and a bookworm.
 
 These are the tech stacks I have accumulated and used over the years, mostly based on the requirements for each project I handled.
 
